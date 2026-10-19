@@ -1,0 +1,5 @@
+#define RAIN (1<<10)
+#define PIR (1<<11)
+#define FLAME (1<<12)
+#define DHT22 (1<<13)
+#define buz (1<<14)
